@@ -9,4 +9,4 @@
 
 2) Install Script from...
 > Install from [greasyfork.org](https://greasyfork.org/en/scripts/441867-1920-in-mail-spammer)
-> Install from [github.com]()
+> Install from [github.com](https://github.com/kixxu/1920.in-mail-button-spammer/raw/main/1920.in_Mail_Spammer_Userscript.js)
