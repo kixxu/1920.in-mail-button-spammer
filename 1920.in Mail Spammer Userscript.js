@@ -6,6 +6,7 @@
 // @author       kixxu#5045
 // @match        mail.1920.in
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
