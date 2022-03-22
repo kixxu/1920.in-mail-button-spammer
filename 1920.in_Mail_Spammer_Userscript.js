@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         1920.in Mail Spammer
-// @namespace    https://www.kixxu.gq
+// @namespace    https://github.com/kixxu/1920.in-mail-button-spammer
 // @version      1.3.3.7
 // @description  Userscript for spamming button on mail.1920.in
 // @author       kixxu#5045
